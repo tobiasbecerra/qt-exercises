@@ -7,7 +7,7 @@ Each project is an individual Qt application focusing on different core topics: 
 
 ## 📁 Projects
 
-### 🔢 01 - Post Sorting (`Class arrangement`)
+#### 🔢 01 - Post Sorting (`Class arrangement`)
 Define a `Post` class with attributes for height and diameter. Stores a custom array of posts and sorts them by height without using `std::vector` or STL algorithms.
 
 ---
