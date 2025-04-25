@@ -12,27 +12,27 @@ Define a `Post` class with attributes for height and diameter. Stores a custom a
 
 ---
 
-### 🔤 02 - Idiom Sorter (`Sort idioms no spaces`)
+#### 🔤 02 - Idiom Sorter (`Sort idioms no spaces`)
 Stores 5 idiomatic expressions in a `std::vector<std::string>`, sorts them alphabetically *ignoring spaces*, and prints the result.
 
 ---
 
-### 🧪 03 - Memory Flood (`Memory limit object allocation`)
+#### 🧪 03 - Memory Flood (`Memory limit object allocation`)
 Defines a custom class and creates instances of it until approximately **200 MB of RAM** is consumed. Shows the total number of objects created.
 
 ---
 
-### 🎚️ 04 - Volume Slider (`Volume control window title`)
+#### 🎚️ 04 - Volume Slider (`Volume control window title`)
 Synchronizes a `QSlider` and a `QSpinBox`, and updates the window title to reflect the current volume level in real-time.
 
 ---
 
-### 🖼️ 05 - Show Image (`Image viewer autoclose`)
+#### 🖼️ 05 - Show Image (`Image viewer autoclose`)
 Displays a high-resolution image from disk inside a maximized `QLabel`, then auto-closes the application after **3 seconds**. The image does not stretch or deform.
 
 ---
 
-### 🔐 06 & 07 - Login + TBD (`QT Login form switch & TBD`)
+#### 🔐 06 & 07 - Login + TBD (`QT Login form switch & TBD`)
 Implements a login screen with username + password. If correct (`admin:1111`), opens a second form with fields for legajo, name, surname, and a **captcha**.  
 Includes:
 - Asterisk masking for password
