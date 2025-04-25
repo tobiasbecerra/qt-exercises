@@ -32,7 +32,7 @@ Displays a high-resolution image from disk inside a maximized `QLabel`, then aut
 
 ---
 
-#### 🔐 06 & 07 - Login + TBD (`QT Login form switch & TBD`)
+#### 🔐 06 & 07 - Login + Captcha (`QT Login form switch & Login Captcha`)
 Implements a login screen with username + password. If correct (`admin:1111`), opens a second form with fields for legajo, name, surname, and a **captcha**.  
 Includes:
 - Asterisk masking for password
